@@ -1,0 +1,129 @@
+ngocpham@Ngocs-MBP input % exiftool IMG_7621.JPG
+ExifTool Version Number         : 12.11
+File Name                       : IMG_7621.JPG
+Directory                       : .
+File Size                       : 1929 KiB
+File Modification Date/Time     : 2020:01:27 09:55:20+08:00
+File Access Date/Time           : 2020:12:03 17:42:56+08:00
+File Inode Change Date/Time     : 2020:12:03 17:42:54+08:00
+File Permissions                : rwxr-xr-x
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone 8 Plus
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 13.3
+Modify Date                     : 2020:01:26 10:37:34
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/120
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 32
+Exif Version                    : 0231
+Date/Time Original              : 2020:01:26 10:37:34
+Create Date                     : 2020:01:26 10:37:34
+Offset Time                     : +07:00
+Offset Time Original            : +07:00
+Offset Time Digitized           : +07:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/120
+Aperture Value                  : 1.8
+Brightness Value                : 5.676388889
+Exposure Compensation           : 0
+Metering Mode                   : Spot
+Flash                           : Off, Did not fire
+Focal Length                    : 4.0 mm
+Subject Area                    : 1750 1345 753 756
+Run Time Flags                  : Valid
+Run Time Value                  : 39975838932500
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+Acceleration Vector             : -0.03411132842 -0.9404975183 0.3400930765
+HDR Image Type                  : Unknown (2)
+Sub Sec Time Original           : 376
+Sub Sec Time Digitized          : 376
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Custom Rendered                 : HDR (no original saved)
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 28 mm
+Scene Capture Type              : Standard
+Lens Info                       : 3.99-6.6mm f/1.8-2.8
+Lens Make                       : Apple
+Lens Model                      : iPhone 8 Plus back dual camera 3.99mm f/1.8
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Altitude Ref                : Above Sea Level
+GPS Speed Ref                   : km/h
+GPS Speed                       : 0.008711516865
+GPS Img Direction Ref           : True North
+GPS Img Direction               : 324.2630313
+GPS Dest Bearing Ref            : True North
+GPS Dest Bearing                : 324.2630313
+GPS Date Stamp                  : 2020:01:26
+GPS Horizontal Positioning Error: 6.000906208 m
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 2346
+Thumbnail Length                : 13356
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    :
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Image Width                     : 4032
+Image Height                    : 3024
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Run Time Since Power Up         : 11:06:16
+Aperture                        : 1.8
+Image Size                      : 4032x3024
+Lens ID                         : iPhone 8 Plus back dual camera 3.99mm f/1.8
+Megapixels                      : 12.2
+Scale Factor To 35 mm Equivalent: 7.0
+Shutter Speed                   : 1/120
+Create Date                     : 2020:01:26 10:37:34.376+07:00
+Date/Time Original              : 2020:01:26 10:37:34.376+07:00
+Modify Date                     : 2020:01:26 10:37:34+07:00
+Thumbnail Image                 : (Binary data 13356 bytes, use -b option to extract)
+GPS Altitude                    : 13.3 m Above Sea Level
+GPS Latitude                    : 10 deg 41' 0.86" N
+GPS Longitude                   : 107 deg 1' 31.96" E
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 65.5 deg
+Focal Length                    : 4.0 mm (35 mm equivalent: 28.0 mm)
+GPS Position                    : 10 deg 41' 0.86" N, 107 deg 1' 31.96" E
+Hyperfocal Distance             : 2.07 m
+Light Value                     : 10.2

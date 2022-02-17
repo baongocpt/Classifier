@@ -1,0 +1,9 @@
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/1.docx
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/1.pptx
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/1.txt
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/1.xlsx
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/2.docx
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/2.pptx
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/2.txt
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/2.xlsx
+C:/Users/Jade Pham/PycharmProjects/Classifier/in/3.txt

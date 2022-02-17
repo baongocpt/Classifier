@@ -1,0 +1,4 @@
+pip install gpsphoto
+pip install ExifRead
+pip install Pillow
+pip install piexif
